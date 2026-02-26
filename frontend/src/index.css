@@ -1,0 +1,10 @@
+/* Global reset and design tokens are in variables.css */
+@import './styles/variables.css';
+
+:root {
+  font-family: var(--font-body);
+}
+
+#root {
+  min-height: 100vh;
+}
